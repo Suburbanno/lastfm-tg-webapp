@@ -16,8 +16,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Last.fm Insights by Eyamikabot",
-  description: "View your Last.fm stats like top tracks, artists, albums, and more with ease.",
+  title: "Last.fm Insights",
+  description: "View your Last.fm stats like top tracks, artists, albums, and more!",
 };
 
 export default function RootLayout({
